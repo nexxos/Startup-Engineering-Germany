@@ -12,3 +12,7 @@ noch eine zeile / Rene
 welchen branch sollen wir denn jetzt nehmen? master?
 "nexxos added you to Startup-Engineering-Germany" jep, so funkttionierrt es jetzt.
 
+klappt ja prima! Nutzt ihr eigenglich zusätzlich ein git-gui? z.B. SourceTree? Wobei es sicher 
+zum Lernen sinnvoller ist, die cmd-line zu nutzen.
+
+
