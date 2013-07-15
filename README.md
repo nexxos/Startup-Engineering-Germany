@@ -7,3 +7,8 @@ Startup-Engineering-Germany
 Im Branch *gh-pages* steckt die [Projekt-Website](http://nexxos.github.io/Startup-Engineering-Germany/).
 
 Kleiner Test - Amir
+
+noch eine zeile / Rene
+welchen branch sollen wir denn jetzt nehmen? master?
+"nexxos added you to Startup-Engineering-Germany" jep, so funkttionierrt es jetzt.
+
